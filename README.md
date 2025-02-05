@@ -6,10 +6,10 @@ This project simulates a minimal Instagram-like system using MySQL. It includes 
 
 The project contains the following components:
 
-1. **Table Creation and Data Insertion**: SQL script to create all required tables and insert test data.
-2. **SQL Queries**: Analytical and utility queries for user engagement, leaderboard, and bot detection.
-3. **Triggers**: SQL triggers to prevent self-following and to track unfollow actions.
-4. **ER Diagram**: A visual representation of the database schema, showcasing relationships between tables.
+1. **ER Diagram**: A visual representation of the database schema, showcasing relationships between tables.
+2. **Table Creation and Data Insertion**: SQL script to create all required tables and insert test data.
+3. **SQL Queries**: Analytical and utility queries for user engagement, leaderboard, and bot detection.
+4. **Triggers**: SQL triggers to prevent self-following and to track unfollow actions.
 
 ---
 
