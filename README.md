@@ -9,6 +9,7 @@ The project contains the following components:
 1. **Table Creation and Data Insertion**: SQL script to create all required tables and insert test data.
 2. **SQL Queries**: Analytical and utility queries for user engagement, leaderboard, and bot detection.
 3. **Triggers**: SQL triggers to prevent self-following and to track unfollow actions.
+4. **ER Diagram**: A visual representation of the database schema, showcasing relationships between tables.
 
 ---
 
